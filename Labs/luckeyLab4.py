@@ -4,8 +4,8 @@ Solution:
 -----------------------------------------------------------------------------
 Developer:       
 Course:         
-Creation Date:  09/27/20025
-Last Mod Date:  10/02/2025
+Creation Date: 
+Last Mod Date: 
 E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - To get a postivie number and have a sentinel to quit and sum all numbers
