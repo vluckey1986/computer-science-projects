@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab8.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
-Creation Date:  11/3/2025
-Last Mod Date:  11/06/20025
-E-mail Address: vlluckey@senators.ws.edu
+Developer:      
+Course:         
+Creation Date:
+Last Mod Date:  
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - Student Web Page Generator
 -----------------------------------------------------------------------------
