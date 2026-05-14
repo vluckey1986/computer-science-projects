@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab9.py
+Solution:      
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
-Creation Date:  11/09/2025
-Last Mod Date:  11/13/2025
-E-mail Address: vlucey@senators.ws.edu
+Developer:      
+Course:         
+Creation Date:  
+Last Mod Date: 
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - Create a Grocery List and calculates the total, average, highest and lowest
 -----------------------------------------------------------------------------
