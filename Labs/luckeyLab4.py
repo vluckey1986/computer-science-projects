@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:        luckeyLab4.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:       Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
+Developer:       
+Course:         
 Creation Date:  09/27/20025
 Last Mod Date:  10/02/2025
-E-mail Address: vlluckey@senators.ws.edu
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - To get a postivie number and have a sentinel to quit and sum all numbers
 -----------------------------------------------------------------------------
