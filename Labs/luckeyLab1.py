@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab1.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
-Creation Date:  09/08/2025
-Last Mod Date:  09/11/2025
-E-mail Address: vlluckey@senators.ws.edu
+Developer:      
+Course:         
+Creation Date: 
+Last Mod Date:  
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - Get character information from user and calculate
 -----------------------------------------------------------------------------
