@@ -1,6 +1,0 @@
-Strength 10
-Constituion 7
-Intelligence 12
-Wisdom 1
-Dexderity 18
-Chrisma 8
