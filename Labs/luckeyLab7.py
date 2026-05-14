@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab7.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
-Creation Date:  10/16/2025
-Last Mod Date:  10/23/2025
-E-mail Address: vlluckey@senators.ws.edu
+Developer:      
+Course:         
+Creation Date:  
+Last Mod Date:  
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - character.txt file and writes to it
 -----------------------------------------------------------------------------
