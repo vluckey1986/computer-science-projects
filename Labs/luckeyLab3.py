@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab3.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
+Developer:      
+Course:         
 Creation Date:  09/19/2025
 Last Mod Date:  09/25/2025
-E-mail Address: vlluckey@senators.ws.edu
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - To double your investment in stockmarket every year
 -----------------------------------------------------------------------------
