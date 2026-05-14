@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:      luckeyLab6.py 
+Solution:      
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
-Creation Date:  10/10/2025
-Last Mod Date:  10/14/2025
-E-mail Address: vlluckey@senators.ws.edu
+Developer:      
+Course:         
+Creation Date:  
+Last Mod Date:  
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - To guess a random number within three tries to be accepted
 -----------------------------------------------------------------------------
