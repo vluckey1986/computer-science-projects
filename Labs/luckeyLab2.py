@@ -1,12 +1,12 @@
 ''' 
 -----------------------------------------------------------------------------
-Solution:       luckeyLab2.py
+Solution:       
 -----------------------------------------------------------------------------
-Developer:      Victoria Luckey
-Course:         Intro to Programming & Logic - CITC-1301
+Developer:      
+Course:       
 Creation Date:  09/12/2025
 Last Mod Date:  09/18/2025
-E-mail Address: vlluckey@senators.ws.edu
+E-mail Address: 
 -----------------------------------------------------------------------------
 Purpose - Human-age in relation to dog-age
 -----------------------------------------------------------------------------
